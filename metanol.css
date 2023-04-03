@@ -1,0 +1,23 @@
+body {
+    color: maroon;
+    background-color: maroon;
+}
+
+#tabla1 {
+    width: 80%;
+    margin: auto;
+    border: 1px solid white;
+    background-color: antiquewhite;
+}
+
+.tartalomkozep {
+    text-align: center;
+}
+
+.keret {
+    border: 1px solid black;
+}
+
+.floatjobb {
+    float: right;
+}
